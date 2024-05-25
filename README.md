@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoan Nguyen</h1>
 <h3 align="center">A passionate Web Developer from Vietnamese</h3>
-- 🌱 I’m currently learning **Java, Spring Boot,...**
+- 🌱 I’m currently learning Java, Spring Boot,...
 
 - 👨‍💻 My portfolio at [hoaandev.id.vn](https://hoaandev.id.vn/)
   
