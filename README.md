@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hoan Nguyen</h1>
 <h3 align="center">A passionate Web Developer from Vietnamese</h3>
-
 - 🌱 I’m currently learning **Java, Spring Boot,...**
 
 - 👨‍💻 My portfolio at [hoaandev.id.vn](https://hoaandev.id.vn/)
-
+  
 - 📫 How to reach me **hoannguyen2248@gmail.com**
-
+  
 - ⚡ Fun fact **love playing video game**
-
 <h3 align="left">Languages and Tools:</h3>
 <h5 aligh="left">Front-end:</h5>
 <p align="left">
@@ -35,4 +33,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 </p>
+<br/>
+
 [![HoaanDev's GitHub | Stats](https://stats.quine.sh/HoaanDev/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=HoaanDev)
