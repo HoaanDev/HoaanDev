@@ -7,32 +7,32 @@
 <div id="badges" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Typing SVG" width="640"/>
   <br/>
-  <a href="https://www.linkedin.com/in/hoaandev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://hoaandev.id.vn/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio Badge"/></a>
-  <a href="https://www.facebook.com/HoanNguyen2204/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://www.linkedin.com/in/hoaandev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://hoaandev.id.vn/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio Badge"/></a>
+  <a href="https://www.facebook.com/HoanNguyen2204/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=HoaanDev&label=Visitors&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=HoaanDev&label=Views&color=0&icon=0&pretty=true" />
   
 </div>
 
 ---
-
+<div id="profile">
   <h3>:writing_hand: Profiles </h3>
-  <h3 align="center">A passionate Software Engineer from Vietnamese</h3>
+  <h4 align="center">A passionate Software Engineer from Vietnam</h4>
   
   - :briefcase: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
   
-  - :seedling: I want to become a expert developer in the future
+  - :seedling: I want to become an expert developer in the future
   
   - :video_game: My hobby is playing video game
     
   - :mailbox: Contact me **hoannguyen2248@gmail.com**
+</div>
 
-<div id="tech-skills">
-  
 ---
   
-<h3 align="left">:hammer_and_wrench: Technical Skills</h3>
+<div id="tech-skills">
+  <h3 align="left">:hammer_and_wrench: Technical Skills</h3>
   <h4 aligh="left">Front-end Development</h4>
   <div>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/></a>
